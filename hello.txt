@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 hellp, how r u?
 second line added
 third line added
-=======
-hellp, how r u?
->>>>>>> parent of a6a74f9 (second line)
